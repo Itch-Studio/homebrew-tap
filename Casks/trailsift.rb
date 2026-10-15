@@ -1,6 +1,6 @@
 cask "trailsift" do
-  version "1.3.1"
-  sha256 "b933a41d611713eac57cb40a3cfca031530024cfe885650caece9c44ac45b410"
+  version "1.3.2"
+  sha256 "364754f87ff8aa2637e2679d60116bc6fdfb3fca59013d81f35e23a9c4780a12"
 
   url "https://trailsift.com/download/TrailSift-#{version}.zip"
   name "TrailSift"
